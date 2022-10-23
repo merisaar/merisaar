@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merisaar (Meri Saarinen)
-- 👀 I’m mostly interested in fullstack development, but I like dipping my toes into other development areas as well!
+- 👀 I’m mostly interested in full stack development, but I like dipping my toes into other development areas as well!
 - 🌱 I’m currently learning game development
 
 <!---
